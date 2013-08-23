@@ -4,7 +4,7 @@ Repository for the [Arbitrary](http://arbitrary.io) + [SuperFriendly](http://sup
 
 Overview
 -----------------
-Some time ago [Jamie](http://twitter.com/jkosoy) invented the idea of a simple diet for himself because he was worried about getting fat and unhealthy. But [http://www.youtube.com/watch?v=_2Nb0T2pr-A](Jamie loves hamburgers) and didn't want to give up eating them. So he decided to restrict himself to a single burger a month. The results were outstanding: Jamie has kept his burger restriction for years now and tends to save that burger day for celebratory experiences. He's used the idea on other "vices" to a degree - fried foods, pork, etc.
+Some time ago [Jamie](http://twitter.com/jkosoy) invented the idea of a simple diet for himself because he was worried about getting fat and unhealthy. But [Jamie loves hamburgers](http://www.youtube.com/watch?v=_2Nb0T2pr-A) and didn't want to give up eating them. So he decided to restrict himself to a single burger a month. The results were outstanding: Jamie has kept his burger restriction for years now and tends to save that burger day for celebratory experiences. He's used the idea on other "vices" to a degree - fried foods, pork, etc.
 
 Over time he began telling people about this and [Dan](http://twitter.com/danielmall) tried it for himself on soda. Again, it worked! Dan went from drinking soda 3x a day to once a month, happily.
 
